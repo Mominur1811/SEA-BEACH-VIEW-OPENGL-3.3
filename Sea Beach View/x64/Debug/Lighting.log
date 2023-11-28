@@ -1,0 +1,1227 @@
+﻿  main.cpp
+C:\Users\MOMINUR\Desktop\Sea Beach View\sphere.h(177,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\MOMINUR\Desktop\Sea Beach View\sphere.h(178,25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\MOMINUR\Desktop\Sea Beach View\sphere.h(180,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\MOMINUR\Desktop\Sea Beach View\Sphere2.h(189,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\MOMINUR\Desktop\Sea Beach View\Sphere2.h(190,25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\MOMINUR\Desktop\Sea Beach View\Sphere2.h(192,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\MOMINUR\Desktop\Sea Beach View\Sphere2.h(269,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\MOMINUR\Desktop\Sea Beach View\Sphere2.h(270,25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\MOMINUR\Desktop\Sea Beach View\Sphere2.h(274,30): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\MOMINUR\Desktop\Sea Beach View\Sphere2.h(325,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\MOMINUR\Desktop\Sea Beach View\Sphere2.h(326,25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\MOMINUR\Desktop\Sea Beach View\Sphere2.h(331,33): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(99,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(99,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(99,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(100,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(100,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(100,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(101,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(101,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(101,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(102,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(102,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(102,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(103,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(103,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(104,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(104,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(104,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(105,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(105,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(105,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(106,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(106,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(106,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(107,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(107,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(107,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(108,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(108,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(108,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(109,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(109,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(109,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(110,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(110,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(110,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(111,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(111,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(111,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(112,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(112,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(112,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(113,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(113,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(113,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(114,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(114,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(114,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(115,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(115,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(115,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(116,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(116,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(116,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(121,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(121,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(121,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(122,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(122,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(122,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(123,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(123,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(123,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(124,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(124,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(124,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(125,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(125,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(125,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(126,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(126,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(126,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(127,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(127,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(128,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(128,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(128,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(129,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(129,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(129,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(130,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(130,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(130,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(131,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(131,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(132,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(132,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(132,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(133,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(133,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(133,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(134,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(134,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(134,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(135,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(135,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(135,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(136,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(136,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(136,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(137,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(137,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(137,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(138,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(138,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(138,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(139,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(139,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(139,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(140,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(140,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(140,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(141,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(141,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(141,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(142,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(142,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(142,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(143,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(143,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(143,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(144,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(144,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(144,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(145,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(145,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(145,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(146,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(146,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(146,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(147,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(147,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(147,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(148,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(148,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(148,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(149,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(149,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(149,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(150,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(150,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(150,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(151,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(151,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(151,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(152,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(152,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(152,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(153,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(153,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(153,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(154,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(154,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(154,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(155,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(155,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(155,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(156,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(156,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(156,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(157,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(157,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(157,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(158,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(158,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(158,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(159,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(159,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(159,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(160,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(160,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(160,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(161,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(161,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(161,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(162,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(162,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(162,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(163,2): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(163,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(163,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(164,10): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(164,18): warning C4305: 'initializing': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(217,13): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(217,30): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(217,47): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(247,73): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(247,61): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(247,49): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(259,61): warning C4101: 'rotateXMatrix2': unreferenced local variable
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(292,61): warning C4101: 'rotateXMatrix2': unreferenced local variable
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(341,70): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(341,60): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(341,50): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(349,75): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(349,63): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(349,51): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(357,75): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(357,63): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(357,51): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(365,75): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(365,63): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(365,51): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(373,75): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(373,63): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(373,51): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(337,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(337,47): warning C4101: 'rotateYMatrix': unreferenced local variable
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(390,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(391,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(414,65): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(424,81): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(424,68): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(424,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(432,75): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(432,62): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(432,50): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(442,81): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(442,68): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(442,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(453,81): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(453,68): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(453,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(428,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(428,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(428,47): warning C4101: 'rotateYMatrix': unreferenced local variable
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(410,36): warning C4101: 'rotateXMatrix': unreferenced local variable
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(410,66): warning C4101: 'rotateZMatrix': unreferenced local variable
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(410,51): warning C4101: 'rotateYMatrix': unreferenced local variable
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(420,36): warning C4101: 'rotateXMatrix': unreferenced local variable
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(420,66): warning C4101: 'rotateZMatrix': unreferenced local variable
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(420,51): warning C4101: 'rotateYMatrix': unreferenced local variable
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(437,36): warning C4101: 'rotateXMatrix': unreferenced local variable
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(437,51): warning C4101: 'rotateYMatrix': unreferenced local variable
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(448,36): warning C4101: 'rotateXMatrix': unreferenced local variable
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(448,66): warning C4101: 'rotateZMatrix': unreferenced local variable
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(448,51): warning C4101: 'rotateYMatrix': unreferenced local variable
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(460,14): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(469,65): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(479,81): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(479,68): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(479,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(487,75): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(487,63): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(487,50): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(498,81): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(498,68): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(498,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(509,81): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(509,68): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(509,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(483,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(483,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(483,47): warning C4101: 'rotateYMatrix': unreferenced local variable
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(465,36): warning C4101: 'rotateXMatrix': unreferenced local variable
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(465,66): warning C4101: 'rotateZMatrix': unreferenced local variable
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(465,51): warning C4101: 'rotateYMatrix': unreferenced local variable
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(475,36): warning C4101: 'rotateXMatrix': unreferenced local variable
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(475,66): warning C4101: 'rotateZMatrix': unreferenced local variable
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(475,51): warning C4101: 'rotateYMatrix': unreferenced local variable
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(493,36): warning C4101: 'rotateXMatrix': unreferenced local variable
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(493,51): warning C4101: 'rotateYMatrix': unreferenced local variable
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(504,36): warning C4101: 'rotateXMatrix': unreferenced local variable
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(504,66): warning C4101: 'rotateZMatrix': unreferenced local variable
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(504,51): warning C4101: 'rotateYMatrix': unreferenced local variable
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(523,66): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(519,36): warning C4101: 'rotateXMatrix': unreferenced local variable
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(519,66): warning C4101: 'rotateZMatrix': unreferenced local variable
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(519,51): warning C4101: 'rotateYMatrix': unreferenced local variable
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(530,17): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(532,12): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(542,61): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(542,44): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(542,34): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(542,29): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(542,24): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(542,19): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(543,63): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(543,45): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(543,34): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(543,29): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(543,24): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(543,19): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(545,61): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(545,43): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(545,34): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(545,29): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(545,19): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(648,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(648,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(1037,47): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(1037,36): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(1037,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(1185,27): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(1186,29): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(1227,67): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(1227,56): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(1227,46): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(1227,39): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(1227,33): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(1227,27): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(1243,25): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(1243,19): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(1245,35): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(1245,25): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(1245,19): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(1366,83): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(1366,74): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(1366,67): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(1366,42): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(1368,68): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(1368,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(1381,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(1406,62): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(1406,47): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(1406,41): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(1406,36): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(1407,73): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(1407,61): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(1407,49): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(1409,62): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(1409,52): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(1409,47): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(1409,41): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(1410,73): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(1410,61): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(1410,49): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(1412,62): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(1412,52): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(1412,47): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(1412,41): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(1413,73): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(1413,61): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(1413,49): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(1420,69): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(1420,59): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(1420,49): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(1422,48): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(1422,42): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(1422,36): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(1423,73): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(1423,61): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(1423,49): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(1425,47): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(1425,41): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(1425,36): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(1426,73): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(1426,61): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(1426,49): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(1428,47): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(1428,41): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(1428,36): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(1416,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(1416,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(1416,47): warning C4101: 'rotateYMatrix': unreferenced local variable
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(1447,69): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(1447,59): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(1447,49): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(1453,74): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(1453,62): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(1453,50): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(1459,74): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(1459,62): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(1459,50): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(1462,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(1462,47): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(1462,41): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(1462,36): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(1443,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(1443,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(1443,47): warning C4101: 'rotateYMatrix': unreferenced local variable
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(1471,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(1481,73): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(1481,61): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(1481,49): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(1483,18): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(1484,13): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(1507,78): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(1507,65): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(1511,18): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(1512,13): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(1513,14): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(1527,58): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(1527,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(1527,46): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(1527,41): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(1527,36): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(1533,58): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(1533,48): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(1533,36): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(1538,64): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(1538,52): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(1538,47): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(1538,41): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(1538,36): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(1503,36): warning C4101: 'rotateXMatrix': unreferenced local variable
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(1503,66): warning C4101: 'rotateZMatrix': unreferenced local variable
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(1503,51): warning C4101: 'rotateYMatrix': unreferenced local variable
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(1546,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(1548,18): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(1558,77): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(1558,65): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(1558,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(1568,76): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(1568,65): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(1568,54): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(1564,36): warning C4101: 'rotateXMatrix': unreferenced local variable
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(1564,66): warning C4101: 'rotateZMatrix': unreferenced local variable
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(1564,51): warning C4101: 'rotateYMatrix': unreferenced local variable
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(1579,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(1581,18): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(1590,73): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(1590,61): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(1590,49): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(1593,18): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(1615,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(1638,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(1639,17): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(1640,18): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(1649,73): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(1649,61): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(1649,49): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(1657,73): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(1657,61): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(1657,49): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(1659,18): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(1661,14): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(1674,13): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(1675,14): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(1689,18): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(1690,13): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(1691,14): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(1709,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(1720,73): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(1720,61): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(1720,49): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(1723,18): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(1724,13): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(1725,14): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(1736,65): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(1744,65): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(1748,18): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(1750,14): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(1761,61): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(1769,13): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(1769,30): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(1769,47): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(1787,13): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(1787,30): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(1787,47): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(1788,28): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(1825,47): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(1826,52): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(1827,34): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(1829,75): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(1830,75): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(1831,75): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(1832,75): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(1833,75): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(1844,29): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(1851,29): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(1858,29): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(1866,21): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(1871,21): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(1876,21): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(1881,21): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(1886,21): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(1891,21): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(1948,22): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(1949,24): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(1966,24): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(1967,25): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(1972,24): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(1973,25): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(1974,24): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(1978,20): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(1993,24): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(1994,25): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(1999,24): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(2000,25): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(2020,23): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(2151,33): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(2154,14): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(2164,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(2170,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\MOMINUR\Desktop\Sea Beach View\main.cpp(2171,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Lighting.vcxproj -> C:\Users\MOMINUR\Desktop\Sea Beach View\x64\Debug\Lighting.exe
